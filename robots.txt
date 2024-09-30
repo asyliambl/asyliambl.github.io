@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://asyliambl.github.io/sitemap.html.gz
+Sitemap: https://asyliambl.github.io/app/sitemap.html.gz
+Sitemap: https://asyliambl.github.io/assets/sitemap.html.gz
+Sitemap: https://asyliambl.github.io/css/sitemap.html.gz
+Sitemap: https://asyliambl.github.io/data/sitemap.html.gz
+Sitemap: https://asyliambl.github.io/includes/sitemap.html.gz
+Sitemap: https://asyliambl.github.io/item/sitemap.html.gz
+Sitemap: https://asyliambl.github.io/src/sitemap.html.gz
